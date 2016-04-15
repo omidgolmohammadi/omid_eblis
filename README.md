@@ -1,4 +1,4 @@
-DBTeam-bot
+O_M-bot
 ============
 
 A Telegram Bot based on plugins using [tg](https://github.com/vysheng/tg).
