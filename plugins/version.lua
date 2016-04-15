@@ -6,15 +6,15 @@
 --                                              --
 --------------------------------------------------
 --                                              --
---       Developers: @Josepdal & @MaSkAoS       --
---     Support: @Skneos,  @iicc1 & @serx666     --
+--    Developers: @heset_ni_zendgi @Xx_admin_eblis_xX      --
+--    Support: @O_M_support
 --                                              --
 --------------------------------------------------
 
 do
 
 function run(msg, matches)
-  return 'DBTeam Bot V1 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot\n\nDevelopers: @MaSkAoS @Josepdal\nSupport: @skneos @iicc1 @Serx666\nChannels: @DBTeamEN @DBTeamES\n\nCheckout: https://github.com/Josepdal/DBTeam\nGNU GPL v2 license.'
+  return 'O_M Bot V1 Supergroups\nAn advanced Administration bot based on yagop/telegram-bot\n\nDevelopers: @heset_ni_zendgi @Xx_admin_eblis_xXJosepdal\Our Chanal: @O_M_support\n\nCheckout:... v1 license.'
 end
 
 return {
